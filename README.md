@@ -1,7 +1,3 @@
-You can copy the README with dots and numbers by using Markdown's numbered list syntax. Here's how you can format the README:
-
----
-
 # British Airways Job Simulation Program
 
 ## Overview
