@@ -47,3 +47,10 @@ Our project addresses this problem by implementing a two-task approach:
 4. **Model Building:** Prepare and manipulate customer booking data for predictive modeling.
 5. **Model Evaluation:** Train and evaluate machine learning models to predict customer behavior.
 6. **Presentation:** Summarize the findings from both tasks in a PowerPoint slide with visualizations and key metrics for easy understanding and presentation to the board.
+
+## Results
+### Task 1
+![Project Result](Results/Task_1.png)
+
+### Task 2
+![Project Result](Results/Task_2.png)
